@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+}
+
+header {
+    color: white;
+    background-color: black;
+}
+header div {
+    padding: 1rem
+}
